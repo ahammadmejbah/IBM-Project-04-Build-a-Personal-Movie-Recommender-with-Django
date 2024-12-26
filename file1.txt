@@ -1,1 +1,2 @@
 Commit from 1 days ago, commit 1
+Commit from 1 days ago, commit 2
