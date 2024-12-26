@@ -12,7 +12,7 @@ TOTAL_DAYS = 365
 
 # Number of commits per day
 MIN_COMMITS_PER_DAY = 1
-MAX_COMMITS_PER_DAY = 2
+MAX_COMMITS_PER_DAY = 100
 
 # Files to modify in each commit
 FILES_TO_MODIFY = ['file1.txt', 'file2.txt', 'file3.txt']
