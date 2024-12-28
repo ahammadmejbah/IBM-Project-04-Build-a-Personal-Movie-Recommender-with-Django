@@ -2,7 +2,7 @@ import os
 from random import randint
 
 for i in range(1, 365):
-    commit_count = randint(1, 1000)
+    commit_count = randint(1, 10)
     for _ in range(commit_count):
         d = f"{i} days ago"
         with open('file.txt', 'a') as file:
